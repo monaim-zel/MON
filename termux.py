@@ -12,7 +12,7 @@ def menu():
 #G#name my channel: Y#Monaim android        W#      #
 #G#my number whatsapp:Y#+212650056998      W#       #
 ###############################################
-#Y#1-) G#install tools termux            W#         #
+#Y#1-) G#install command linux            W#         #
 ###############################################
 #Y#00-)G#Exit the tool                   W#         #
 ###############################################""").Square(cols=2,Equal=True)
